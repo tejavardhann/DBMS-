@@ -18,7 +18,7 @@ The database consists of the following core tables:
 ---
 
 ## 🛠️ Technology Used
-- **Database:** MySQL / PostgreSQL
+- **Database:** MySQL 
 - **Query Language:** SQL
 - **File Storage:** `.sql` scripts for schema creation and data insertion
 
@@ -47,4 +47,4 @@ The **AnalyticsRequirement.sql** file contains queries to extract key insights s
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ride-booking-database.git
+   git clone https://github.com/tejavardhann/ride-booking-database.git
